@@ -1,0 +1,91 @@
+body {
+  background-color: grey;
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border;
+}
+.main {
+  border-style: solid;
+  border-radius: 20px;
+  background-color: #262629;
+  color: white;
+  text-align: center;
+}
+#bento {
+  text-align: left;
+}
+#home_page {
+  text-align: center;
+}
+button {
+  border-radius: 40px;
+  padding: 30px;
+  background-color: #9747ff;
+}
+.flex-container > div {
+  width: 100px;
+  margin: 100px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.box_1 {
+  background-color: lightgrey;
+  width: 200px;
+  height: 300px;
+  border: 0px;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 25px;
+  background-color: #262629;
+}
+
+aside {
+  margin-inline: 350px;
+  width: 2500px;
+  height: 10px;
+}
+#name {
+  border-style: solid;
+  border-radius: 20px;
+  background-color: #9747ff;
+  color: white;
+}
+image {
+  border-radius: 50%;
+}
+.icons {
+  position: absolute;
+}
+i {
+  font-size: 60px;
+}
+.box_2 {
+  width: 200px;
+  height: 150px;
+  border: 0px;
+  padding: 50px;
+  margin: 10px;
+  border-radius: 25px;
+  background-color: #262629;
+  color: white;
+}
+.title {
+  color: #9747ff;
+}
+.box_3 {
+  width: 200px;
+  height: 150px;
+  border: 0px;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 25px;
+  background-color: #262629;
+  color: white;
+}
+i {
+  margin: 10px;
+}
